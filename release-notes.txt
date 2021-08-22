@@ -1,0 +1,8 @@
+#Release notes for build 1.0.5
+
+##Changes
+-added code signing for Android
+-added additional increment
+
+##Known issues
+-post-publish jarsigner script doesn't work, deleted it
