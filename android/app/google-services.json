@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571887400219",
+    "project_id": "codemagic-trial-dd47a",
+    "storage_bucket": "codemagic-trial-dd47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571887400219:android:f9dd09c3aa192940e88fbe",
+        "android_client_info": {
+          "package_name": "io.codemagic.alexapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571887400219-94q3nv223n7npss3fuk2vb42d5b3vtj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUNB4PE4cQkWB9ocQoAaSB44EnFQ14iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571887400219-94q3nv223n7npss3fuk2vb42d5b3vtj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
